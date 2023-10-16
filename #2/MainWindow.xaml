@@ -1,0 +1,27 @@
+﻿<Window x:Class="WpfApp10.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp10"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+
+    <WrapPanel>
+        <Button Content="Red" Foreground="Red" />
+        <Button Content="Orange" Foreground="Orange" />
+        <Button Content="Yellow" Foreground="Yellow" />
+        <Button Content="Lime" Foreground="Lime" />
+        <Button Content="Teal" Foreground="Teal" />
+        <Button Content="Aqua" Foreground="Aqua" />
+        <Button Content="Cyan" Foreground="Cyan" />
+        <Button Content="Blue" Foreground="Blue" />
+        <Button Content="Indigo" Foreground="Indigo" />
+        <Button Content="Violet" Foreground="Violet" />
+        <Button Content="Fuchsia" Foreground="Fuchsia" />
+        <Button Content="Magenta" Foreground="Magenta" />
+        <Button Content="Black" Foreground="Black" />
+        <Button Content="Gray" Foreground="Gray" />
+        <Button Content="White" Foreground="White" />
+    </WrapPanel>
+</Window>
